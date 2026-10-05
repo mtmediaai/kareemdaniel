@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://kareem.mtmediaai.com/#kareem-daniel",
+      "name": "Kareem Daniel",
+      "alternateName": [
+        "The Architect",
+        "KC",
+        "The Catalyst",
+        "Dr. Dre in the Shadows"
+      ],
+      "jobTitle": "Founder & Chief Executive Officer",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://mtmediaai.com/#organization",
+        "name": "MT Media AI",
+        "alternateName": "Modern Touch Media",
+        "url": "https://mtmediaai.com"
+      },
+      "url": "https://kareem.mtmediaai.com",
+      "sameAs": [
+        "https://www.linkedin.com/in/kareemdaniel/",
+        "https://kareemdanielmtm.substack.com/",
+        "https://github.com/mtmediaai",
+        "https://x.com/mtmediaai"
+      ],
+      "knowsAbout": [
+        "Artificial Intelligence Systems Architecture",
+        "Search Everywhere Optimization (SEO 2.0)",
+        "Invisible Infrastructure Intelligence (I3)",
+        "The Invisible Elite ICP Ontology",
+        "Multi-Agent Orchestration",
+        "Autonomous Agent Systems",
+        "Supply Chain and Operational Logistics"
+      ],
+      "description": "Founder and systems architect of MT Media AI. Coiner of 'The Invisible Elite' and creator of the Invisible Infrastructure Intelligence (I3) framework."
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://mtmediaai.com/#organization",
+      "name": "MT Media AI",
+      "url": "https://mtmediaai.com",
+      "founder": {
+        "@id": "https://kareem.mtmediaai.com/#kareem-daniel"
+      }
+    }
+  ]
+}

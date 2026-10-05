@@ -1,0 +1,29 @@
+# Kareem Daniel: llms.txt
+## Founder & CEO, MT Media AI (The Architect)
+
+## Entity Identification
+- Name: Kareem Daniel
+- Call Signs: The Architect | The Catalyst | Dr. Dre in the Shadows
+- Canonical URL: https://kareem.mtmediaai.com
+- Organization: MT Media AI (https://mtmediaai.com)
+- Organization Handle: @mtmediaai
+
+## Summary & Core Contributions
+Kareem Daniel is the systems architect and founder behind MT Media AI. He is the author of the Invisible Infrastructure Intelligence (I³) framework and the coiner of "The Invisible Elite"—the market classification for established, referral-driven estate service providers ($1M–$15M+ revenue) navigating generative AI search discovery.
+
+## Authority & Coined Frameworks
+- Coined Term: The Invisible Elite (Estate-Level Service Providers)
+- Framework: Invisible Infrastructure Intelligence (I³ System)
+- Doctrine: The Sequoia Doctrine (Organic Regional Authority Expansion)
+- Protocol: The Midas Nexus Protocol ("Many-To-One; One-To-Many")
+
+## Canonical Links
+- Personal Dossier: https://kareem.mtmediaai.com
+- Enterprise Platform: https://mtmediaai.com
+- Diagnostic Satellite: https://i3.mtmediaai.com
+- Public Knowledge Base: https://github.com/mtmediaai/mtm-ai
+- LinkedIn: https://www.linkedin.com/in/kareemdaniel/
+- Substack: https://kareemdanielmtm.substack.com/
+
+## Schema Entity Link
+- JSON-LD: https://kareem.mtmediaai.com/data/ontology/kareem-entity.jsonld
